@@ -1,0 +1,43 @@
+{
+  "1feb7ccf-17e7-4e00-b0f3-ed877c58d29d" : {
+    "4e8be453-bb42-45f2-866e-db9ef55d8db6" : "Create ticket",
+    "1bdd957b-77ab-480f-8b2c-cf90ee8da16c" : "Submit",
+    "9b6b7e2f-de3b-47fe-9c11-7266ac8f3157" : "Project",
+    "fdf45862-d943-41f7-9ba6-a94e85eae52c" : "",
+    "904d8211-d136-4356-9fab-769c35c3181b" : "Summary",
+    "44dda140-6d9d-4307-9e95-77253b65f121" : "Description",
+    "45f32435-d578-403e-9c50-8d2d9c660525" : "CBG",
+    "eab6f4da-84da-4ce5-ae6f-a7a6ff87ead4" : "Create ticket"
+  },
+  "5c3696b7-c3d9-4445-becf-014fe4ed5aeb" : {
+    "1becfae9-7cd6-4185-b34f-7990add04084" : "New assigned tickets",
+    "7c1b6a87-5b81-4fa7-8815-ba9b9a4c6a3b" : "New ticket assigned to you ",
+    "e892139a-83a1-4c7d-8af9-114135e75be3" : "Ticket details",
+    "48470548-af2e-4d88-8c73-87f8fd91c3fa" : "Fields Summary",
+    "3ba23b7d-ed36-45bf-8b9f-e80d34a19a6e" : "Fields Status Name",
+    "e0abc683-cd70-4521-a20a-3e838940210a" : "Fields Status Description",
+    "4a888764-c517-4792-9e2e-f17cefaa4d67" : "Key",
+    "8dcf841f-51bb-4a46-be88-3e5ccabf57fc" : "Key",
+    "84f1e4b2-faf2-4fc6-93f3-5854bf6ad057" : "Select",
+    "bfa48c88-2bcf-447a-82a8-6fb4497f628e" : "Table",
+    "44763ac4-35dd-4050-aeb9-37bdc2ea6457" : "ticket watchers",
+    "7aac386c-24f1-4c44-9007-8f9891ac4f26" : "goto google",
+    "fb9593f5-a2ed-486e-85ac-6bdee5315028" : "Fields Summary",
+    "a23e850f-ee82-40e6-9a2e-583a6996ad2e" : "No data to display",
+    "bcce90de-ec36-4a73-b64f-ac272b13652a" : "Fields Summary",
+    "71239b06-51d9-422e-a75c-053e99e70758" : "2",
+    "ad60dc7c-8b82-43ac-b215-8110e068a248" : "Watcher Name",
+    "41ff7c82-57b2-4b3f-8502-4d699407e1aa" : "New tickets",
+    "2cfa77b6-f52c-40c2-a799-affbd4bb6b53" : "ticket details",
+    "dd52bb90-256c-4477-a6cc-235fee16e561" : "test",
+    "77d99a73-30de-4c79-beda-ad4653cf75e2" : "Watcher Count",
+    "af147601-7fc9-4f37-b041-675c0eb4aead" : "Fields Project Key",
+    "f3239b10-6db7-4e06-b73d-d254215bdba8" : "ticket comments",
+    "fa51a85a-0e68-4a1b-9797-aac3b53c5a88" : "Fields Description",
+    "48ff198c-0f1e-47b3-833b-aff14e90ef85" : "deleteme",
+    "556537cc-2619-498f-9031-434dabe6a650" : "Id",
+    "b6838ca9-7ec3-48e4-91fc-341be87b1c83" : "Fields Project Key",
+    "765a1d60-5341-4449-894c-cb9f30acf6ef" : "New ticket {{key}} assigned to you in project {{fields_project_name}}",
+    "ac5304a5-665b-4e0f-b499-a82f0addd1e2" : ""
+  }
+}
