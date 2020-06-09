@@ -1,46 +1,46 @@
 {
     "iconUrl": "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/HTTP.b662c61cecf295906ef0af18be93b25a.svg",
-    "created": "2020-04-21T14:57:47",
-    "supportsOAuthForActions": true,
-    "masVersion": "1.9.201.419400bb793ed44848b5f496392a4b12aa2de966",
-    "vendor": "ExampleVendor",
-    "title": "New Jira",
     "vaResolvers": [],
-    "apps": [
-        {
-            "numberOfEvents": 1,
-            "action": false,
-            "title": "New Tickets",
-            "uuid": "1a8fd95c-6fa7-4483-8985-70609e1e3464"
-        },
-        {
-            "numberOfEvents": 0,
-            "action": true,
-            "title": "Create Ticket",
-            "uuid": "939c36e1-1ffd-47a7-91ba-427d7b1f8121"
-        }
-    ],
+    "vendor": "ExampleVendor",
+    "masVersion": "1.9.201.419400bb793ed44848b5f496392a4b12aa2de966",
     "type": "HTTP",
-    "id": "83e3220b-0df8-40a8-a5e6-2e2c8f1b8679",
+    "title": "New Jira",
     "i18nLanguages": [
         "en"
     ],
     "metadata": [
         {
-            "value": "https://www.privacy.com",
-            "tag": "privacyUrl"
+            "tag": "privacyUrl",
+            "value": "https://www.privacy.com"
         },
         {
-            "value": "https://www.docs.com/test",
-            "tag": "documentationUrl"
+            "tag": "documentationUrl",
+            "value": "https://www.docs.com/test"
         },
         {
-            "value": "https://www.terms.com",
-            "tag": "termsOfUseUrl"
+            "tag": "termsOfUseUrl",
+            "value": "https://www.terms.com"
         },
         {
-            "value": "https://www.support.com",
-            "tag": "supportUrl"
+            "tag": "supportUrl",
+            "value": "https://www.support.com"
+        }
+    ],
+    "created": "2020-04-21T14:57:47",
+    "id": "83e3220b-0df8-40a8-a5e6-2e2c8f1b8679",
+    "supportsOAuthForActions": true,
+    "apps": [
+        {
+            "uuid": "1a8fd95c-6fa7-4483-8985-70609e1e3464",
+            "action": false,
+            "numberOfEvents": 1,
+            "title": "New Tickets"
+        },
+        {
+            "uuid": "939c36e1-1ffd-47a7-91ba-427d7b1f8121",
+            "action": true,
+            "numberOfEvents": 0,
+            "title": "Create Ticket"
         }
     ],
     "description": ""
