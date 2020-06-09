@@ -1,0 +1,25 @@
+{
+  "1a8fd95c-6fa7-4483-8985-70609e1e3464" : {
+    "37717156-e54f-4e27-9437-4dd7d6bb992a" : "Comment",
+    "43a2a386-8eb0-4cc6-ba26-487f5d5b690b" : "Key",
+    "8c75fde1-dcca-490b-89c2-10f1564a3ddc" : "Fields Summary",
+    "4f801a58-5c5d-41a8-9fbc-09450e7bd199" : "Fields Reporter Display N",
+    "7a44131f-f9c9-4732-9a88-8b9e8940df4a" : "New assigned ticket",
+    "cbd5b07a-a2e8-4830-928c-456037ba9bb0" : "Ticket details",
+    "10fad859-63a2-4317-9228-0242abfe2e14" : "Fields Status Name",
+    "2ba5f5b8-cd27-439f-b0ac-90ac09f911cd" : "New ticket {{key}} assigned to you in project {{fields_project_name}}",
+    "f4ca0eeb-7acf-41f2-bccd-bda74fd8c2a5" : "Fields Project Key",
+    "40790f32-7d6e-4b5a-bfd1-c763feaaf2ac" : "New ticket assigned to you",
+    "89b75aff-c68b-4cc0-a006-89f67cb6298a" : "Fields Description",
+    "a1a519e0-76b9-4d7d-9f3a-a6474e0dc8cc" : "New Tickets",
+    "f85f0d6f-b794-4fbf-99e1-7466b65fba78" : "Ticket Details"
+  },
+  "939c36e1-1ffd-47a7-91ba-427d7b1f8121" : {
+    "2a8fff86-610a-4875-a7e6-452afc6c58f6" : "Create ticket",
+    "f39aee96-e51e-4322-a0fd-92a782df954b" : "Summary",
+    "90e24201-dd4a-463f-b515-6966aafcb05b" : "Project",
+    "623ec293-7318-4986-9a9b-836a05deae89" : "Description",
+    "96b94188-502e-4d13-ab5b-9f5478d4b556" : "Submit",
+    "25e5752e-b1a8-460c-a175-bb8ae17e50cb" : "Create Ticket"
+  }
+}

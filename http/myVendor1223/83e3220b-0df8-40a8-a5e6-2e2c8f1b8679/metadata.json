@@ -1,0 +1,47 @@
+{
+    "title": "New Jira",
+    "iconUrl": "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/HTTP.b662c61cecf295906ef0af18be93b25a.svg",
+    "description": "",
+    "created": "2020-04-21T14:57:47",
+    "type": "HTTP",
+    "vendor": "myVendor1223",
+    "masVersion": "1.9.201.419400bb793ed44848b5f496392a4b12aa2de966",
+    "vaResolvers": [],
+    "metadata": [
+        {
+            "tag": "privacyUrl",
+            "value": "https://www.privacy.com"
+        },
+        {
+            "tag": "documentationUrl",
+            "value": "https://www.docs.com/test"
+        },
+        {
+            "tag": "termsOfUseUrl",
+            "value": "https://www.terms.com"
+        },
+        {
+            "tag": "supportUrl",
+            "value": "https://www.support.com"
+        }
+    ],
+    "apps": [
+        {
+            "numberOfEvents": 1,
+            "title": "New Tickets",
+            "uuid": "1a8fd95c-6fa7-4483-8985-70609e1e3464",
+            "action": false
+        },
+        {
+            "numberOfEvents": 0,
+            "title": "Create Ticket",
+            "uuid": "939c36e1-1ffd-47a7-91ba-427d7b1f8121",
+            "action": true
+        }
+    ],
+    "id": "83e3220b-0df8-40a8-a5e6-2e2c8f1b8679",
+    "i18nLanguages": [
+        "en"
+    ],
+    "supportsOAuthForActions": true
+}
