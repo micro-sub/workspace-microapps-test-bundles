@@ -1,47 +1,47 @@
 {
+    "iconUrl": "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/HTTP.9b81384ab8a11658b635e7542ff6416c.svg",
+    "vaResolvers": [],
+    "created": "2020-04-14T08:40:59",
+    "i18nLanguages": [
+        "en"
+    ],
+    "description": "Failing service actions",
     "title": "A Jira Walkthrough",
+    "id": "1344d7c0-23d8-4923-b1c5-6fc35ce7e20c",
+    "supportsOAuthForActions": true,
     "masVersion": "1.9.201.419400bb793ed44848b5f496392a4b12aa2de966",
     "metadata": [
         {
-            "value": "https://www.privacy.com",
-            "tag": "privacyUrl"
+            "tag": "privacyUrl",
+            "value": "https://www.privacy.com"
         },
         {
-            "value": "https://www.docs.com/test",
-            "tag": "documentationUrl"
+            "tag": "documentationUrl",
+            "value": "https://www.docs.com/test"
         },
         {
-            "value": "https://www.terms.com",
-            "tag": "termsOfUseUrl"
+            "tag": "termsOfUseUrl",
+            "value": "https://www.terms.com"
         },
         {
-            "value": "https://www.support.com",
-            "tag": "supportUrl"
+            "tag": "supportUrl",
+            "value": "https://www.support.com"
         }
     ],
     "apps": [
         {
-            "title": "Create ticket",
             "numberOfEvents": 0,
             "uuid": "1feb7ccf-17e7-4e00-b0f3-ed877c58d29d",
-            "action": true
+            "action": true,
+            "title": "Create ticket"
         },
         {
-            "title": "New tickets",
             "numberOfEvents": 1,
             "uuid": "5c3696b7-c3d9-4445-becf-014fe4ed5aeb",
-            "action": false
+            "action": false,
+            "title": "New tickets"
         }
     ],
-    "vaResolvers": [],
-    "created": "2020-04-14T08:40:59",
-    "description": "Failing service actions",
-    "i18nLanguages": [
-        "en"
-    ],
-    "iconUrl": "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/HTTP.9b81384ab8a11658b635e7542ff6416c.svg",
     "vendor": "myVendor12234",
-    "id": "1344d7c0-23d8-4923-b1c5-6fc35ce7e20c",
-    "type": "HTTP",
-    "supportsOAuthForActions": true
+    "type": "HTTP"
 }
