@@ -1,0 +1,47 @@
+{
+    "created": "2020-04-14T08:40:59",
+    "metadata": [
+        {
+            "value": "https://www.google.com",
+            "tag": "privacyUrl"
+        },
+        {
+            "value": "https://www.google.com",
+            "tag": "documentationUrl"
+        },
+        {
+            "value": "https://www.google.com",
+            "tag": "termsOfUseUrl"
+        },
+        {
+            "value": "https://www.google.com",
+            "tag": "supportUrl"
+        }
+    ],
+    "i18nLanguages": [
+        "en"
+    ],
+    "description": "Failing service actions",
+    "title": "A Jira Walkthrough",
+    "type": "HTTP",
+    "masVersion": "1.9.201.419400bb793ed44848b5f496392a4b12aa2de966",
+    "vaResolvers": [],
+    "vendor": "myCompany",
+    "iconUrl": "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/HTTP.9b81384ab8a11658b635e7542ff6416c.svg",
+    "id": "1344d7c0-23d8-4923-b1c5-6fc35ce7e20c",
+    "supportsOAuthForActions": true,
+    "apps": [
+        {
+            "title": "Create ticket",
+            "uuid": "1feb7ccf-17e7-4e00-b0f3-ed877c58d29d",
+            "numberOfEvents": 0,
+            "action": true
+        },
+        {
+            "title": "New tickets",
+            "uuid": "5c3696b7-c3d9-4445-becf-014fe4ed5aeb",
+            "numberOfEvents": 1,
+            "action": false
+        }
+    ]
+}
