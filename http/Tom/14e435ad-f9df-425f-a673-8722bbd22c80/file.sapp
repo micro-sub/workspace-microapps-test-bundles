@@ -1,0 +1,2373 @@
+{
+  "applications" : [ {
+    "appVersion" : {
+      "id" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+      "serviceId" : 39,
+      "version" : 1020,
+      "pages" : [ {
+        "id" : "7bd07637-f042-43f5-afec-1c14d6bfd5b2",
+        "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+        "type" : "LIST",
+        "components" : [ {
+          "type" : "TABLE",
+          "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+          "columnId" : null,
+          "required" : false,
+          "textType" : null,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "componentTableId" : 275,
+          "defaultLimit" : 20,
+          "parameters" : {
+            "tableconfig" : {
+              "tableid" : 275,
+              "show_1_to_n" : "0",
+              "columns" : [ {
+                "label" : "3daf23be-00c7-4b88-833d-593f55c7ab3e",
+                "id" : "abc7ec60-ec19-4c7f-af0a-758fbea5c168",
+                "tableid" : 275,
+                "columnid" : 2381,
+                "device_action" : "0",
+                "format" : "",
+                "icon" : "none",
+                "fontsize" : "regular",
+                "formula" : "",
+                "alignment" : "left"
+              }, {
+                "label" : "1530e0ed-cc3e-43d0-b189-88249bb7250e",
+                "id" : "6e8b9e9a-7bcb-4933-89c6-0c9c1a16f32e",
+                "tableid" : 275,
+                "columnid" : 2382,
+                "device_action" : "0",
+                "format" : "",
+                "icon" : "none",
+                "fontsize" : "regular",
+                "formula" : "",
+                "alignment" : "left"
+              }, {
+                "label" : "b1428723-0f60-4c78-91dd-7ff46defffdf",
+                "id" : "797bb613-434d-4d62-80ee-715ce371b3bf",
+                "tableid" : 275,
+                "columnid" : 2383,
+                "device_action" : "0",
+                "format" : "",
+                "icon" : "none",
+                "fontsize" : "regular",
+                "formula" : "",
+                "alignment" : "left"
+              }, {
+                "label" : "6d6c71de-5eb6-48f1-a8b2-97cf8cf4a6db",
+                "id" : "7b3acbc3-c4ac-4eb7-93d1-d469699a35d5",
+                "tableid" : 275,
+                "columnid" : 2384,
+                "device_action" : "0",
+                "format" : "",
+                "icon" : "none",
+                "fontsize" : "regular",
+                "formula" : "",
+                "alignment" : "left"
+              }, {
+                "label" : "3b585ee5-e58b-409f-8e22-2828307832e4",
+                "id" : "f51e7e21-4962-470b-baec-6bea5e4c8b0a",
+                "tableid" : 275,
+                "columnid" : 2385,
+                "device_action" : "0",
+                "format" : "",
+                "icon" : "none",
+                "fontsize" : "regular",
+                "formula" : "",
+                "alignment" : "left"
+              }, {
+                "label" : "ef0f8dfd-ed76-4bae-9206-e02b08017268",
+                "id" : "51353b84-2c0c-4ad6-9a16-e8e56be0e760",
+                "tableid" : 275,
+                "columnid" : 2386,
+                "device_action" : "0",
+                "format" : "",
+                "icon" : "none",
+                "fontsize" : "regular",
+                "formula" : "",
+                "alignment" : "left"
+              }, {
+                "label" : "9ed3a79c-8cc5-4bac-af21-e73efa84085e",
+                "id" : "5075aa22-02d9-4cb1-a830-130a8f255e6d",
+                "tableid" : 275,
+                "columnid" : 2387,
+                "device_action" : "0",
+                "format" : "",
+                "icon" : "none",
+                "fontsize" : "regular",
+                "formula" : "",
+                "alignment" : "left"
+              }, {
+                "label" : "cf1e7904-42e9-4214-9392-26511bed4323",
+                "id" : "9f4503ce-06df-40f5-be77-817bc84c7621",
+                "tableid" : 275,
+                "columnid" : 2388,
+                "device_action" : "0",
+                "format" : "",
+                "icon" : "none",
+                "fontsize" : "regular",
+                "formula" : "",
+                "alignment" : "left"
+              }, {
+                "label" : "2e53f623-a7f2-4d4b-a827-d42f94d4f0d5",
+                "id" : "9fe9d40e-a332-454d-987a-c4c88e8d72e1",
+                "tableid" : 275,
+                "columnid" : 2389,
+                "device_action" : "0",
+                "format" : "",
+                "icon" : "none",
+                "fontsize" : "regular",
+                "formula" : "",
+                "alignment" : "left"
+              } ],
+              "images" : [ ],
+              "groupByColumns" : [ ],
+              "limit" : "20",
+              "dividers" : "0",
+              "skip_on_one" : "0"
+            },
+            "label_props" : "0",
+            "font_size" : "0",
+            "enabled" : "1"
+          },
+          "id" : "8fefa37e-05ca-460c-bbf1-346cd66f90fe",
+          "defaultvalue" : null,
+          "displayorder" : 0
+        } ],
+        "title" : "b959bd39-39f1-466c-9655-deac4737cb8a",
+        "logicConfiguration" : [ ],
+        "parameters" : { },
+        "tableid" : 275,
+        "datasourceid" : 39,
+        "pagetype" : "List"
+      }, {
+        "id" : "2005e31b-5679-4b94-aa2b-722788de0cf8",
+        "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+        "type" : "DETAIL",
+        "components" : [ {
+          "type" : "SELECT",
+          "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+          "columnId" : null,
+          "required" : true,
+          "textType" : null,
+          "label" : "12d0ab35-7b3e-4a87-bacb-707a7ec414f4",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "fillType" : "DATABASE",
+            "customFilterItems" : [ ],
+            "manualOptions" : [ ],
+            "mapToDataColumn" : false,
+            "field_width" : "large",
+            "fill_serviceId" : 39,
+            "fill_tableid" : 288,
+            "fill_columnid_value" : 2431,
+            "fill_columnid_display" : 2431,
+            "visible" : 1,
+            "defaultValue" : null,
+            "optionLabelColumnType" : "STRING",
+            "prefill" : null,
+            "autoload" : 1,
+            "disabled" : 0
+          },
+          "id" : "13e92501-1ab1-44b0-a246-77485ce1b062",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        }, {
+          "type" : "SELECT",
+          "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+          "columnId" : null,
+          "required" : true,
+          "textType" : null,
+          "label" : "3c349a25-54b3-4ead-a33e-b29b43386787",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "query" : {
+              "id" : "9d18f624-ec60-45c9-94b4-0331e88edb68",
+              "constraints" : {
+                "type" : "EXPRESSION",
+                "left" : {
+                  "type" : "TERM",
+                  "constraint" : {
+                    "tableId" : 288,
+                    "columnId" : 2431,
+                    "foreignKeyId" : 115,
+                    "valueType" : "COMPONENT",
+                    "variableComponent" : "13e92501-1ab1-44b0-a246-77485ce1b062",
+                    "ignoredWhenValueIsNull" : false,
+                    "action" : "EQUALS_TO"
+                  }
+                },
+                "operator" : "AND",
+                "right" : {
+                  "type" : "TERM",
+                  "constraint" : {
+                    "tableId" : 288,
+                    "columnId" : 2432,
+                    "foreignKeyId" : 115,
+                    "valueType" : "COLUMN",
+                    "variableColumn" : 2435,
+                    "ignoredWhenValueIsNull" : false,
+                    "action" : "EQUALS_TO"
+                  }
+                }
+              },
+              "autojoins" : false
+            },
+            "fillType" : "DATABASE",
+            "customFilterItems" : [ ],
+            "manualOptions" : [ ],
+            "mapToDataColumn" : false,
+            "field_width" : "large",
+            "fill_serviceId" : 39,
+            "fill_tableid" : 289,
+            "fill_columnid_value" : 2434,
+            "fill_columnid_display" : 2433,
+            "visible" : 1,
+            "defaultValue" : null,
+            "optionLabelColumnType" : "STRING",
+            "prefill" : null,
+            "autoload" : 1,
+            "disabled" : 0
+          },
+          "id" : "9ac59643-d9eb-4133-b5df-9dd851f52a64",
+          "defaultvalue" : null,
+          "displayorder" : 2
+        }, {
+          "type" : "RADIO",
+          "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+          "columnId" : null,
+          "required" : true,
+          "textType" : null,
+          "label" : "3c40e44e-e436-4c24-9109-49626a3a6347",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "fillType" : "MANUAL",
+            "customFilterItems" : [ ],
+            "manualOptions" : [ {
+              "id" : "knw520",
+              "label" : "0637af9a-bddb-4211-a741-3d1ab695d9ca",
+              "value" : "individuals"
+            }, {
+              "id" : "8lryrw",
+              "label" : "b4439eae-343e-464c-b515-068c402baf8d",
+              "value" : "agencies"
+            }, {
+              "id" : "q9ps3x",
+              "label" : "452bf3f0-f003-4046-8631-723872a04f3f",
+              "value" : "all"
+            } ],
+            "mapToDataColumn" : false,
+            "visible" : 1,
+            "defaultValue" : "all",
+            "optionLabelColumnType" : null,
+            "prefill" : null,
+            "autoload" : 0,
+            "disabled" : 0
+          },
+          "id" : "f5b08c5a-8b74-44fb-9067-5ed0c18b0b97",
+          "defaultvalue" : null,
+          "displayorder" : 3
+        }, {
+          "type" : "RADIO",
+          "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+          "columnId" : null,
+          "required" : true,
+          "textType" : null,
+          "label" : "13e4e3a7-3146-4ce6-aea2-f1302a8c4d91",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "fillType" : "MANUAL",
+            "customFilterItems" : [ ],
+            "manualOptions" : [ {
+              "id" : "sx7otk",
+              "label" : "1fbc7503-2ccd-48e5-b1b6-38e5c043e1f6",
+              "value" : "hourly"
+            }, {
+              "id" : "gp379g",
+              "label" : "a6a02855-7e13-40af-bca6-5ced2d02b9c3",
+              "value" : "fixed-price"
+            } ],
+            "mapToDataColumn" : false,
+            "visible" : 1,
+            "defaultValue" : "hourly",
+            "optionLabelColumnType" : null,
+            "prefill" : null,
+            "autoload" : 0,
+            "disabled" : 0
+          },
+          "id" : "29b8eadc-46c7-4b4f-b9c3-14f430c2507d",
+          "defaultvalue" : null,
+          "displayorder" : 4
+        }, {
+          "type" : "RADIO",
+          "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+          "columnId" : null,
+          "required" : true,
+          "textType" : null,
+          "label" : "b8da223a-5aae-4f45-9e2d-03a1f1c9b4e3",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "fillType" : "MANUAL",
+            "customFilterItems" : [ ],
+            "manualOptions" : [ {
+              "id" : "ttcrvh",
+              "label" : "14688d99-e595-4f27-9638-5454d8ac04c5",
+              "value" : "30"
+            }, {
+              "id" : "b91yk8",
+              "label" : "e57871f4-8184-48ee-bb09-36ca5b7ea0c5",
+              "value" : "150"
+            }, {
+              "id" : "iur4vy",
+              "label" : "9c8f887b-12e2-4b2b-82e8-094e337a3715",
+              "value" : "180"
+            }, {
+              "id" : "q29hn3",
+              "label" : "07417798-806e-4865-88ee-f7284bd3dda9",
+              "value" : "640"
+            }, {
+              "id" : "xwaaon",
+              "label" : "9ee28cb7-bade-453e-9150-bcd16a1b53fc",
+              "value" : "1120"
+            }, {
+              "id" : "jnjt6h",
+              "label" : "8023aa21-148a-43d2-90db-054f1139a551",
+              "value" : "31"
+            } ],
+            "mapToDataColumn" : false,
+            "visible" : 1,
+            "defaultValue" : "31",
+            "optionLabelColumnType" : null,
+            "prefill" : null,
+            "autoload" : 0,
+            "disabled" : 0
+          },
+          "id" : "b05b0bd0-aa40-4da1-b404-7a7180b0d142",
+          "defaultvalue" : null,
+          "displayorder" : 5
+        }, {
+          "type" : "NUMBER",
+          "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+          "columnId" : null,
+          "required" : false,
+          "textType" : null,
+          "label" : "e55aa192-3442-4841-8566-bac72efd5d7f",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "counter" : false,
+            "useComponentValueAsMinimum" : false,
+            "useComponentValueAsMaximum" : false,
+            "field_width" : "large",
+            "visible" : 1,
+            "mapToDataColumn" : false,
+            "query" : null,
+            "prefill" : null,
+            "disabled" : 0,
+            "order" : null
+          },
+          "id" : "0038418f-c495-4b54-93eb-67558c31c0f7",
+          "defaultvalue" : "",
+          "displayorder" : 6
+        }, {
+          "type" : "TEXT_AREA",
+          "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+          "columnId" : null,
+          "required" : true,
+          "textType" : null,
+          "label" : "6aa800d5-9ac9-4019-9961-01b05961aa04",
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "maxLength" : 5000,
+            "field_width" : "large",
+            "visible" : 1,
+            "mapToDataColumn" : false,
+            "query" : null,
+            "prefill" : null,
+            "disabled" : 0,
+            "order" : null
+          },
+          "id" : "4be02305-ff90-4c34-8a70-cd01383b19fd",
+          "defaultvalue" : "",
+          "displayorder" : 7
+        }, {
+          "type" : "TEXT_INPUT",
+          "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+          "columnId" : null,
+          "required" : true,
+          "textType" : null,
+          "label" : "ec5dca97-cb44-4b13-88fe-f788cefe76e3",
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "maxLength" : 100,
+            "field_width" : "large",
+            "visible" : 1,
+            "mapToDataColumn" : true,
+            "query" : null,
+            "prefill" : null,
+            "disabled" : 0,
+            "order" : null
+          },
+          "id" : "d8d11cb5-b856-45a1-b6ec-6e0c5861b92e",
+          "defaultvalue" : "",
+          "displayorder" : 8
+        }, {
+          "type" : "SELECT",
+          "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+          "columnId" : null,
+          "required" : true,
+          "textType" : null,
+          "label" : "57c18886-0c60-415e-b538-3ea56723e04c",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "query" : {
+              "id" : "0abcaa9f-708c-4f1c-b66e-3cccc73277c4",
+              "constraints" : {
+                "type" : "TERM",
+                "constraint" : {
+                  "tableId" : 291,
+                  "columnId" : 2441,
+                  "valueType" : "VALUE",
+                  "value" : "false",
+                  "ignoredWhenValueIsNull" : false,
+                  "action" : "EQUALS_TO"
+                }
+              },
+              "autojoins" : false
+            },
+            "fillType" : "DATABASE",
+            "customFilterItems" : [ ],
+            "manualOptions" : [ ],
+            "mapToDataColumn" : false,
+            "field_width" : "large",
+            "fill_serviceId" : 39,
+            "fill_tableid" : 291,
+            "fill_columnid_value" : 2442,
+            "fill_columnid_display" : 2442,
+            "visible" : 1,
+            "defaultValue" : null,
+            "optionLabelColumnType" : "STRING",
+            "prefill" : null,
+            "autoload" : 1,
+            "disabled" : 0
+          },
+          "id" : "1b4c525c-8bc3-4ea4-921c-6c6765580f26",
+          "defaultvalue" : null,
+          "displayorder" : 10
+        }, {
+          "type" : "SELECT",
+          "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+          "columnId" : null,
+          "required" : true,
+          "textType" : null,
+          "label" : "c3ff5932-a273-415f-9179-d25758b58628",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "query" : {
+              "id" : "78e32d72-c010-41cf-b500-6b50de2e0317",
+              "constraints" : {
+                "type" : "TERM",
+                "constraint" : {
+                  "tableId" : 275,
+                  "columnId" : 2384,
+                  "valueType" : "COMPONENT",
+                  "variableComponent" : "1b4c525c-8bc3-4ea4-921c-6c6765580f26",
+                  "ignoredWhenValueIsNull" : false,
+                  "action" : "EQUALS_TO"
+                }
+              },
+              "autojoins" : false
+            },
+            "fillType" : "DATABASE",
+            "customFilterItems" : [ ],
+            "manualOptions" : [ ],
+            "mapToDataColumn" : false,
+            "field_width" : "large",
+            "fill_serviceId" : 39,
+            "fill_tableid" : 275,
+            "fill_columnid_value" : 2389,
+            "fill_columnid_display" : 2384,
+            "visible" : 0,
+            "defaultValue" : null,
+            "optionLabelColumnType" : "STRING",
+            "prefill" : null,
+            "autoload" : 1,
+            "disabled" : 0
+          },
+          "id" : "fc91e138-42cc-4891-84ba-27f5bec72377",
+          "defaultvalue" : null,
+          "displayorder" : 11
+        }, {
+          "type" : "RADIO",
+          "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+          "columnId" : null,
+          "required" : true,
+          "textType" : null,
+          "label" : "015f9c3f-5dea-4fc8-b374-5e55edd21607",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "fillType" : "MANUAL",
+            "customFilterItems" : [ ],
+            "manualOptions" : [ {
+              "id" : "1pvdig",
+              "label" : "092ca020-e8a2-407d-9bda-76a6d9a99910",
+              "value" : "public"
+            }, {
+              "id" : "8s2e24",
+              "label" : "0eff4947-6b7f-4418-92a2-17b0f2f8c226",
+              "value" : "private"
+            } ],
+            "mapToDataColumn" : false,
+            "visible" : 1,
+            "defaultValue" : "private",
+            "optionLabelColumnType" : null,
+            "prefill" : null,
+            "autoload" : 0,
+            "disabled" : 0
+          },
+          "id" : "4dfd0cf2-9c7a-4d30-a27a-6d7ceca7858b",
+          "defaultvalue" : null,
+          "displayorder" : 9
+        }, {
+          "type" : "BUTTON",
+          "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+          "columnId" : null,
+          "required" : false,
+          "textType" : null,
+          "label" : "f8a296c0-489e-4c66-9642-9ffcad4589f4",
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "operationStack" : {
+              "operations" : [ {
+                "type" : "SERVICE_ACTION",
+                "label" : "Submit New Job",
+                "id" : "op_mf84qu",
+                "children" : [ ],
+                "serviceAction" : {
+                  "type" : "GWSC",
+                  "id" : "cfb56e42-b660-4f74-92ca-93d812749440",
+                  "name" : "addNewJobPost",
+                  "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+                  "parameters" : [ {
+                    "parameterId" : "budget",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "0038418f-c495-4b54-93eb-67558c31c0f7"
+                  }, {
+                    "parameterId" : "buyer_team__reference",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "fc91e138-42cc-4891-84ba-27f5bec72377"
+                  }, {
+                    "parameterId" : "contractor_type",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "f5b08c5a-8b74-44fb-9067-5ed0c18b0b97"
+                  }, {
+                    "parameterId" : "description",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "4be02305-ff90-4c34-8a70-cd01383b19fd"
+                  }, {
+                    "parameterId" : "duration",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "b05b0bd0-aa40-4da1-b404-7a7180b0d142"
+                  }, {
+                    "parameterId" : "job_type",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "29b8eadc-46c7-4b4f-b9c3-14f430c2507d"
+                  }, {
+                    "parameterId" : "specialty",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "9ac59643-d9eb-4133-b5df-9dd851f52a64"
+                  }, {
+                    "parameterId" : "title",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "d8d11cb5-b856-45a1-b6ec-6e0c5861b92e"
+                  }, {
+                    "parameterId" : "visibility",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "4dfd0cf2-9c7a-4d30-a27a-6d7ceca7858b"
+                  }, {
+                    "parameterId" : "occupation",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "9ac59643-d9eb-4133-b5df-9dd851f52a64"
+                  } ],
+                  "flatDataServiceActionId" : 1,
+                  "serviceId" : 39
+                },
+                "serviceId" : 39
+              } ]
+            },
+            "tone" : "PRIMARY",
+            "size" : "STANDARD",
+            "query" : null,
+            "prefill" : null,
+            "disabled" : 0,
+            "showInBladeFooter" : true,
+            "order" : null
+          },
+          "id" : "3058018e-f82c-4d23-9595-3e734aa559d2",
+          "defaultvalue" : null,
+          "displayorder" : 12
+        } ],
+        "title" : "4e7f6e1e-7e2f-4647-9bc3-b619618a1785",
+        "logicConfiguration" : [ {
+          "constraints" : [ {
+            "targetComponentId" : "29b8eadc-46c7-4b4f-b9c3-14f430c2507d",
+            "comparison" : "EQUAL_TO",
+            "valueType" : "VALUE",
+            "id" : "y0luu8",
+            "equality" : "IS",
+            "value" : "fixed-price"
+          } ],
+          "children" : [ {
+            "targetComponentId" : "b05b0bd0-aa40-4da1-b404-7a7180b0d142",
+            "execution" : null,
+            "valueType" : null,
+            "label" : "Hide Component",
+            "id" : "g5cz9o",
+            "type" : "HIDE",
+            "customExecution" : null,
+            "value" : null,
+            "group" : "TRUE"
+          }, {
+            "targetComponentId" : "0038418f-c495-4b54-93eb-67558c31c0f7",
+            "execution" : null,
+            "valueType" : null,
+            "label" : "Show Component",
+            "id" : "1a0js8",
+            "type" : "SHOW",
+            "customExecution" : null,
+            "value" : null,
+            "group" : "TRUE"
+          }, {
+            "targetComponentId" : "0038418f-c495-4b54-93eb-67558c31c0f7",
+            "execution" : null,
+            "valueType" : null,
+            "label" : "Hide Component",
+            "id" : "hu9ew2",
+            "type" : "HIDE",
+            "customExecution" : null,
+            "value" : null,
+            "group" : "FALSE"
+          }, {
+            "targetComponentId" : "b05b0bd0-aa40-4da1-b404-7a7180b0d142",
+            "execution" : null,
+            "valueType" : null,
+            "label" : "Show Component",
+            "id" : "jy5ipz",
+            "type" : "SHOW",
+            "customExecution" : null,
+            "value" : null,
+            "group" : "FALSE"
+          } ],
+          "execution" : "AND",
+          "valueType" : null,
+          "label" : "Evaluate Condition",
+          "id" : "8op5w3",
+          "type" : "CONDITION",
+          "customExecution" : "",
+          "value" : null,
+          "group" : null
+        } ],
+        "parameters" : { },
+        "tableid" : 292,
+        "datasourceid" : 39,
+        "pagetype" : "Detail"
+      }, {
+        "id" : "95e9aaf6-b2a4-4260-9754-21c1656f0a6e",
+        "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+        "type" : "LIST",
+        "components" : [ {
+          "type" : "TABLE",
+          "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+          "columnId" : null,
+          "required" : false,
+          "textType" : null,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "componentTableId" : 291,
+          "defaultLimit" : 20,
+          "parameters" : {
+            "tableconfig" : {
+              "tableid" : 291,
+              "columnid" : 0,
+              "show_1_to_n" : "0",
+              "columns" : [ {
+                "label" : "3778d6c2-cf10-406f-80c2-b9f9a83b5d77",
+                "id" : "2991bfb0-48e3-4386-85f8-ec597b9cfca2",
+                "tableid" : 291,
+                "columnid" : 2443,
+                "device_action" : "0",
+                "format" : "",
+                "icon" : "none",
+                "fontsize" : "regular",
+                "formula" : "",
+                "alignment" : "left"
+              }, {
+                "label" : "9c07681a-1271-4664-afcc-e162d58b127d",
+                "id" : "7bf742c2-dbbd-4a0c-a834-e5dbe7ae0c34",
+                "tableid" : 291,
+                "columnid" : 2441,
+                "device_action" : "0",
+                "format" : "",
+                "icon" : "none",
+                "fontsize" : "regular",
+                "formula" : "",
+                "alignment" : "left"
+              }, {
+                "label" : "c283893c-8c34-4ee7-bc18-948e17899246",
+                "id" : "55967985-6d09-47a9-88ef-373aec2ec8ff",
+                "tableid" : 291,
+                "columnid" : 2444,
+                "device_action" : "0",
+                "format" : "",
+                "icon" : "none",
+                "fontsize" : "regular",
+                "formula" : "",
+                "alignment" : "left"
+              }, {
+                "label" : "9479133e-9ba9-4568-9bb8-6852e2e00928",
+                "id" : "feb68872-7129-4bc5-a131-8cc9b014472c",
+                "tableid" : 291,
+                "columnid" : 2442,
+                "device_action" : "0",
+                "format" : "",
+                "icon" : "none",
+                "fontsize" : "regular",
+                "formula" : "",
+                "alignment" : "left"
+              }, {
+                "label" : "974c3c7a-bca1-41a1-b583-ef7bee08c9d8",
+                "id" : "ed5482c6-dc55-4ebc-b9f9-1322c6fb5416",
+                "tableid" : 291,
+                "columnid" : 2445,
+                "device_action" : "0",
+                "format" : "",
+                "icon" : "none",
+                "fontsize" : "regular",
+                "formula" : "",
+                "alignment" : "left"
+              }, {
+                "label" : "d6a96186-b216-4757-b5d4-9603a18c35f1",
+                "id" : "259e59ab-14d9-40c5-8623-4e7b32cc4bde",
+                "tableid" : 291,
+                "columnid" : 2446,
+                "device_action" : "0",
+                "format" : "",
+                "icon" : "none",
+                "fontsize" : "regular",
+                "formula" : "",
+                "alignment" : "left"
+              } ],
+              "images" : [ ],
+              "groupByColumns" : [ ],
+              "limit" : "20",
+              "dividers" : "0",
+              "skip_on_one" : "0"
+            },
+            "label_props" : "0",
+            "font_size" : "0",
+            "enabled" : "1"
+          },
+          "id" : "004514cc-6fa5-41b7-b294-2ebb65963649",
+          "defaultvalue" : null,
+          "displayorder" : 0
+        } ],
+        "title" : "9547a3b7-d036-4ca2-bf14-04a90dab0061",
+        "logicConfiguration" : [ ],
+        "parameters" : { },
+        "tableid" : 291,
+        "datasourceid" : 39,
+        "pagetype" : "List"
+      }, {
+        "id" : "c9aa3ec8-97a5-49a0-a502-2423c06e30b9",
+        "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+        "type" : "DETAIL",
+        "components" : [ {
+          "type" : "TABLE",
+          "appId" : "939fd42c-060e-4ed0-a61d-3d36ee411d25",
+          "columnId" : null,
+          "required" : false,
+          "textType" : null,
+          "label" : "39ed9de6-f690-4609-ae7e-484334e6beea",
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "componentTableId" : 291,
+          "defaultLimit" : 20,
+          "parameters" : {
+            "tableconfig" : {
+              "noDataText" : "52cc1a09-3319-42dd-91b9-27d808b33afd",
+              "tableid" : 291,
+              "sqlquery" : {
+                "id" : "ff4eb966-474f-48fe-b165-6e3f8dfb0248",
+                "constraints" : {
+                  "type" : "TERM",
+                  "constraint" : {
+                    "tableId" : 291,
+                    "columnId" : 2441,
+                    "valueType" : "VALUE",
+                    "value" : "false",
+                    "ignoredWhenValueIsNull" : false,
+                    "action" : "EQUALS_TO"
+                  }
+                },
+                "autojoins" : false
+              },
+              "sqlorder" : {
+                "id" : "f2f91c10-95ed-4e34-8605-6db6cd837e39",
+                "constraints" : {
+                  "type" : "TERM",
+                  "constraint" : {
+                    "tableId" : 291,
+                    "columnId" : 2441,
+                    "order" : "DESC",
+                    "ignoredWhenValueIsNull" : false
+                  }
+                },
+                "autojoins" : false
+              },
+              "show_1_to_n" : "0",
+              "columns" : [ {
+                "type" : "SIMPLE",
+                "aggregation" : "NONE",
+                "label" : "d71f51e1-4f1c-4293-bd32-0d26a908f5e0",
+                "id" : "jbamo2",
+                "tableid" : 291,
+                "columnid" : 2442,
+                "urlTemplate" : null,
+                "format" : "none",
+                "tableColumn" : {
+                  "columnType" : "STRING"
+                },
+                "conditional_format" : "null"
+              }, {
+                "type" : "SIMPLE",
+                "aggregation" : "NONE",
+                "label" : "bca2110d-3f34-49ae-aa63-fcd4ddf822e8",
+                "id" : "6n5d7t",
+                "tableid" : 291,
+                "columnid" : 2445,
+                "urlTemplate" : null,
+                "format" : "none",
+                "tableColumn" : {
+                  "columnType" : "STRING"
+                },
+                "conditional_format" : "null"
+              }, {
+                "type" : "SIMPLE",
+                "aggregation" : "NONE",
+                "label" : "b0cc9f71-ef7f-49ab-8f32-67b27d559874",
+                "id" : "gvtv1z",
+                "tableid" : 291,
+                "columnid" : 2441,
+                "urlTemplate" : null,
+                "format" : "none",
+                "tableColumn" : {
+                  "columnType" : "STRING"
+                },
+                "conditional_format" : "null"
+              } ],
+              "images" : [ ],
+              "groupByColumns" : [ ],
+              "hideIfEmpty" : true,
+              "sortable" : 1,
+              "alignment" : "left"
+            },
+            "query" : null,
+            "prefill" : null,
+            "order" : null
+          },
+          "id" : "8498fd99-9b91-4b81-a09c-6bf33ecadfdb",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        } ],
+        "query" : {
+          "id" : "d83d8051-3c05-4b13-9191-aff35155fcf2",
+          "constraints" : {
+            "type" : "TERM",
+            "constraint" : {
+              "tableId" : 291,
+              "columnId" : 2441,
+              "valueType" : "VAL_FALSE",
+              "value" : "false",
+              "ignoredWhenValueIsNull" : false,
+              "action" : "EQUALS_TO"
+            }
+          },
+          "autojoins" : false
+        },
+        "title" : "6b25d548-4ee3-4bd6-96c8-b0545e22c1fd",
+        "logicConfiguration" : [ ],
+        "parameters" : { },
+        "tableid" : 291,
+        "datasourceid" : 39,
+        "pagetype" : "Detail"
+      } ],
+      "actionApp" : true,
+      "parameters" : {
+        "imageUrl" : "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/default-broken.228ee7a7d194b827137f3208c5468ba7.svg",
+        "description" : "7c28ce62-ce5f-4d2d-8efa-9100cae59755"
+      },
+      "title" : "52589bfe-f26a-4177-b642-35407330d784",
+      "startPageId" : "2005e31b-5679-4b94-aa2b-722788de0cf8"
+    },
+    "outboundLinks" : {
+      "page" : [ ],
+      "notification" : [ ]
+    }
+  } ],
+  "services" : [ {
+    "id" : 39,
+    "uuid" : "14e435ad-f9df-425f-a673-8722bbd22c80",
+    "version" : 114,
+    "title" : "Post New Job",
+    "serviceType" : "GWSC",
+    "group" : "GWSC:JSON",
+    "updatePending" : false,
+    "configurationPending" : false,
+    "secretsMissing" : false,
+    "schemaName" : "esfuln3ad7gw_upwork_job_p_3",
+    "configuration" : {
+      "baseUrl" : "https://www.upwork.com/api/",
+      "security" : {
+        "type" : "OAUTH2",
+        "grantType" : "CLIENT_CREDENTIALS",
+        "authorizationURL" : "https://www.upwork.com/ab/account-security/oauth2/authorize",
+        "scope" : "",
+        "tokenURL" : "https://www.upwork.com/api/v3/oauth2/token",
+        "tokenAuthorization" : "AUTHORIZATION_HEADER",
+        "customAccessTokenParameters" : [ ],
+        "authHeaderPrefix" : ""
+      },
+      "useServiceActionSecurity" : true,
+      "serviceActionSecurity" : {
+        "type" : "OAUTH2",
+        "grantType" : "AUTHORIZATION_CODE",
+        "authorizationURL" : "https://www.upwork.com/ab/account-security/oauth2/authorize",
+        "scope" : "",
+        "tokenURL" : "https://www.upwork.com/api/v3/oauth2/token",
+        "tokenAuthorization" : "REQUEST_BODY",
+        "authHeaderPrefix" : ""
+      },
+      "useOnPremProxy" : false,
+      "dataEndpoints" : [ {
+        "id" : 1,
+        "name" : "teams",
+        "endpoint" : "hr/v2/companies/{{companyReference}}/teams.json",
+        "requestMethod" : "GET",
+        "postMode" : "FORMDATA",
+        "body" : "",
+        "type" : "LIST",
+        "rootPath" : "teams",
+        "tables" : [ {
+          "id" : 1,
+          "tableName" : "teams",
+          "path" : "teams",
+          "columns" : [ {
+            "name" : "company_name",
+            "path" : "company_name",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "company_reference",
+            "path" : "company__reference",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "INTEGER",
+            "source" : "RECORD"
+          }, {
+            "name" : "id",
+            "path" : "id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD",
+            "role" : "PRIMARY_KEY",
+            "columnRole" : "PRIMARY_KEY"
+          }, {
+            "name" : "name",
+            "path" : "name",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "parent_team_id",
+            "path" : "parent_team__id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "parent_team_name",
+            "path" : "parent_team__name",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "parent_team_reference",
+            "path" : "parent_team__reference",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "INTEGER",
+            "source" : "RECORD"
+          }, {
+            "name" : "payment_verification_stat",
+            "path" : "payment_verification_status",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "reference",
+            "path" : "reference",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "INTEGER",
+            "source" : "RECORD"
+          } ],
+          "root" : true,
+          "ignored" : false,
+          "childTables" : [ ],
+          "loadingType" : "PULL"
+        } ],
+        "incrementalSyncQueryParameters" : [ ],
+        "baseTableName" : "teams",
+        "mergeStrategy" : "NONE",
+        "headerParameters" : [ ],
+        "synchronizationTypes" : [ {
+          "id" : "FullSynchronization",
+          "name" : "Full Synchronization",
+          "description" : "Full synchronization drops the local cache and pulls all data from the source system again.",
+          "preferredSchedule" : "DAILY"
+        } ],
+        "queryParameters" : [ ],
+        "pathParameters" : [ {
+          "name" : "companyReference",
+          "defaultValue" : "2050589",
+          "parameterType" : "STRING",
+          "required" : true,
+          "uniqueId" : "b5fa29f5-ceee-45a4-83ff-68b724f86b92"
+        } ],
+        "bodyParameters" : [ ]
+      }, {
+        "id" : 2,
+        "name" : "ontology_categories",
+        "endpoint" : "graphql",
+        "requestMethod" : "POST",
+        "postMode" : "URL_ENCODED_FORM",
+        "body" : "",
+        "type" : "LIST",
+        "rootPath" : "data/ontologyCategories",
+        "tables" : [ {
+          "id" : 2,
+          "tableName" : "category",
+          "path" : "data/ontologyCategories",
+          "columns" : [ {
+            "name" : "id",
+            "path" : "id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD",
+            "columnRole" : "PRIMARY_KEY"
+          }, {
+            "name" : "preferred_label",
+            "path" : "preferredLabel",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          } ],
+          "root" : true,
+          "ignored" : false,
+          "childTables" : [ "data/ontologyCategories/services", "data/ontologyCategories/subcategories" ],
+          "detailEndpointIds" : [ ],
+          "loadingType" : "PULL"
+        }, {
+          "id" : 3,
+          "tableName" : "category_services",
+          "path" : "data/ontologyCategories/services",
+          "columns" : [ {
+            "name" : "id",
+            "path" : "id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD",
+            "columnRole" : "PRIMARY_KEY"
+          }, {
+            "name" : "parent_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "PARENT_RECORD",
+            "columnRole" : "PRIMARY_KEY",
+            "parentColumnReference" : "id",
+            "parentTableReference" : "category",
+            "referenceGroup" : "6bc8cfa0-d40a-483f-8ea5-473ad9b4fdc1"
+          }, {
+            "name" : "preferred_label",
+            "path" : "preferredLabel",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "root_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "ROOT_RECORD",
+            "columnRole" : "ROOT_KEY_REFERENCE",
+            "parentColumnReference" : "id"
+          } ],
+          "root" : false,
+          "ignored" : false,
+          "childTables" : [ ],
+          "detailEndpointIds" : [ ],
+          "loadingType" : "PULL"
+        }, {
+          "id" : 4,
+          "tableName" : "subcategory",
+          "path" : "data/ontologyCategories/subcategories",
+          "columns" : [ {
+            "name" : "id",
+            "path" : "id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD",
+            "columnRole" : "PRIMARY_KEY"
+          }, {
+            "name" : "parent_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "PARENT_RECORD",
+            "columnRole" : "PRIMARY_KEY",
+            "parentColumnReference" : "id",
+            "parentTableReference" : "category",
+            "referenceGroup" : "5621862e-1f18-4f68-b8cb-e996ddfa04fd"
+          }, {
+            "name" : "preferred_label",
+            "path" : "preferredLabel",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "root_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "ROOT_RECORD",
+            "columnRole" : "ROOT_KEY_REFERENCE",
+            "parentColumnReference" : "id"
+          } ],
+          "root" : false,
+          "ignored" : false,
+          "childTables" : [ "data/ontologyCategories/subcategories/services" ],
+          "detailEndpointIds" : [ ],
+          "loadingType" : "PULL"
+        }, {
+          "id" : 5,
+          "tableName" : "subcategory_services",
+          "path" : "data/ontologyCategories/subcategories/services",
+          "columns" : [ {
+            "name" : "id",
+            "path" : "id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD",
+            "columnRole" : "PRIMARY_KEY"
+          }, {
+            "name" : "parent_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "PARENT_RECORD",
+            "columnRole" : "PRIMARY_KEY",
+            "parentColumnReference" : "id",
+            "parentTableReference" : "subcategory",
+            "referenceGroup" : "6b6dc26e-65d5-447b-a191-4a94f8b14c43"
+          }, {
+            "name" : "parent_parent_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "PARENT_RECORD",
+            "columnRole" : "PRIMARY_KEY",
+            "parentColumnReference" : "parent_id",
+            "parentTableReference" : "subcategory",
+            "referenceGroup" : "6b6dc26e-65d5-447b-a191-4a94f8b14c43"
+          }, {
+            "name" : "preferred_label",
+            "path" : "preferredLabel",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "root_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "ROOT_RECORD",
+            "columnRole" : "ROOT_KEY_REFERENCE",
+            "parentColumnReference" : "id"
+          } ],
+          "root" : false,
+          "ignored" : false,
+          "childTables" : [ ],
+          "detailEndpointIds" : [ ],
+          "loadingType" : "PULL"
+        } ],
+        "incrementalSyncQueryParameters" : [ ],
+        "baseTableName" : "category",
+        "mergeStrategy" : "NONE",
+        "headerParameters" : [ {
+          "name" : "Content-Type",
+          "defaultValue" : "application/x-www-form-urlencoded",
+          "parameterType" : "STRING",
+          "required" : false,
+          "uniqueId" : "d840477e-3a63-4bee-9c8f-66cfaad8ce09"
+        }, {
+          "name" : "X-Upwork-Version",
+          "defaultValue" : "v1",
+          "parameterType" : "STRING",
+          "required" : false,
+          "uniqueId" : "bb4ab041-7874-478f-ba3a-61346207e4b5"
+        } ],
+        "synchronizationTypes" : [ {
+          "id" : "FullSynchronization",
+          "name" : "Full Synchronization",
+          "description" : "Full synchronization drops the local cache and pulls all data from the source system again.",
+          "preferredSchedule" : "DAILY"
+        } ],
+        "queryParameters" : [ ],
+        "pathParameters" : [ ],
+        "bodyParameters" : [ {
+          "name" : "query",
+          "defaultValue" : "{   ontologyCategories {     id     preferredLabel     services {       id       preferredLabel     }     subcategories{       id       preferredLabel       services{         id         preferredLabel       }     }   } }",
+          "parameterType" : "STRING",
+          "required" : false,
+          "uniqueId" : "122b38e0-045f-456d-9053-279d6f1fe0ad"
+        } ]
+      }, {
+        "id" : 3,
+        "name" : "organization_teams",
+        "endpoint" : "graphql",
+        "requestMethod" : "POST",
+        "postMode" : "URL_ENCODED_FORM",
+        "body" : "",
+        "type" : "LIST",
+        "rootPath" : "data/organization",
+        "tables" : [ {
+          "id" : 6,
+          "tableName" : "organization",
+          "path" : "data/organization",
+          "columns" : [ {
+            "name" : "id",
+            "path" : "id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD",
+            "columnRole" : "PRIMARY_KEY"
+          }, {
+            "name" : "name",
+            "path" : "name",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          } ],
+          "root" : true,
+          "ignored" : false,
+          "childTables" : [ "data/organization/childOrganizations" ],
+          "detailEndpointIds" : [ ],
+          "loadingType" : "PULL"
+        }, {
+          "id" : 7,
+          "tableName" : "organization_teams",
+          "path" : "data/organization/childOrganizations",
+          "columns" : [ {
+            "name" : "active",
+            "path" : "active",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "hidden",
+            "path" : "hidden",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "id",
+            "path" : "id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD",
+            "columnRole" : "PRIMARY_KEY"
+          }, {
+            "name" : "name",
+            "path" : "name",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "parent_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "PARENT_RECORD",
+            "columnRole" : "PRIMARY_KEY",
+            "parentColumnReference" : "id",
+            "parentTableReference" : "organization",
+            "referenceGroup" : "b032beb2-52ab-45aa-919b-e6c86965097b"
+          }, {
+            "name" : "root_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "ROOT_RECORD",
+            "columnRole" : "ROOT_KEY_REFERENCE",
+            "parentColumnReference" : "id"
+          } ],
+          "root" : false,
+          "ignored" : false,
+          "childTables" : [ ],
+          "detailEndpointIds" : [ ],
+          "loadingType" : "PULL"
+        } ],
+        "incrementalSyncQueryParameters" : [ ],
+        "baseTableName" : "organization",
+        "mergeStrategy" : "NONE",
+        "headerParameters" : [ {
+          "name" : "Content-Type",
+          "defaultValue" : "application/x-www-form-urlencoded",
+          "parameterType" : "STRING",
+          "required" : false,
+          "uniqueId" : "bb6c37ce-c6e6-4655-9f75-ec9a223e2747"
+        }, {
+          "name" : "X-Upwork-Version",
+          "defaultValue" : "v1",
+          "parameterType" : "STRING",
+          "required" : false,
+          "uniqueId" : "c8086271-7d18-4533-a87b-f2916cb404e3"
+        }, {
+          "name" : "X-Upwork-API-TenantId",
+          "defaultValue" : "611678586057953280",
+          "parameterType" : "STRING",
+          "required" : false,
+          "uniqueId" : "7ef0be35-4a72-40c2-9cfd-1a9046155bff"
+        } ],
+        "synchronizationTypes" : [ {
+          "id" : "FullSynchronization",
+          "name" : "Full Synchronization",
+          "description" : "Full synchronization drops the local cache and pulls all data from the source system again.",
+          "preferredSchedule" : "DAILY"
+        } ],
+        "queryParameters" : [ ],
+        "pathParameters" : [ ],
+        "bodyParameters" : [ {
+          "name" : "query",
+          "defaultValue" : "{  organization{     id     name     childOrganizations{       id       name       active       hidden     }   }}",
+          "parameterType" : "STRING",
+          "required" : true,
+          "uniqueId" : "e23010f0-044b-441a-97c7-b92f3e3ca5de"
+        }, {
+          "name" : "X-Upwork-API-TenantId",
+          "defaultValue" : "611678586057953280",
+          "parameterType" : "STRING",
+          "required" : true,
+          "uniqueId" : "7262ed9d-5987-440d-93dc-475c66fe7c90"
+        } ]
+      } ],
+      "webhookListeners" : [ ],
+      "schedule" : [ {
+        "synchronizationTypeId" : "FullSynchronization",
+        "useTimeRange" : false,
+        "schedule" : "HOURLY"
+      } ],
+      "serviceActions" : [ {
+        "id" : 1,
+        "name" : "addNewJobPost",
+        "endpoint" : "/hr/v2/jobs.json",
+        "requestMethod" : "POST",
+        "postMode" : "URL_ENCODED_FORM",
+        "body" : "",
+        "actionParameters" : [ {
+          "name" : "title",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "50c397f5-7f0d-4aeb-afcf-af21ff2ef5d4"
+        }, {
+          "name" : "buyer_team__reference",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "fb805d90-2f00-4959-a88b-af6cf7cc7393"
+        }, {
+          "name" : "job_type",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "138b143c-0a19-4f7f-ba63-fd181381b37d"
+        }, {
+          "name" : "description",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "6ef01915-bd45-4c32-b827-3f06491eb561"
+        }, {
+          "name" : "visibility",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "90010ed2-014e-4a93-8029-0c8559ac37c9"
+        }, {
+          "name" : "category2",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : false,
+          "uniqueId" : "f4c07f5b-9281-466c-a4b9-1cf12a4859f7"
+        }, {
+          "name" : "specialty",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "6a404db2-0866-497f-a8da-e3673c1028c3"
+        }, {
+          "name" : "budget",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : false,
+          "uniqueId" : "975c65d6-684e-4be7-8df4-63c66cb6fab6"
+        }, {
+          "name" : "duration",
+          "dataType" : "INTEGER",
+          "defaultValue" : "",
+          "required" : false,
+          "uniqueId" : "aa411445-3534-44c7-bd1c-994d7204dbee"
+        }, {
+          "name" : "skills",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : false,
+          "uniqueId" : "0c5d3eac-b12e-4b2f-a0a7-d4e099009159"
+        }, {
+          "name" : "contractor_type",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "211039bc-1b31-497a-9d05-63bbdaf36b00"
+        }, {
+          "name" : "occupation",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "7c7c696e-c197-44b5-842d-1905811078ad"
+        } ],
+        "preActionDataUpdates" : [ ],
+        "postActionDataUpdates" : [ ],
+        "headerParameters" : [ ],
+        "queryParameters" : [ ],
+        "pathParameters" : [ ],
+        "bodyParameters" : [ {
+          "name" : "title",
+          "required" : false,
+          "uniqueId" : "84f0e4f5-7adc-4166-812d-ade19027707b",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "50c397f5-7f0d-4aeb-afcf-af21ff2ef5d4"
+        }, {
+          "name" : "buyer_team__reference",
+          "required" : false,
+          "uniqueId" : "2dd63666-0f16-4b13-87db-fcbf8b558b5f",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "fb805d90-2f00-4959-a88b-af6cf7cc7393"
+        }, {
+          "name" : "job_type",
+          "required" : false,
+          "uniqueId" : "41b263e2-6105-44c2-817f-f3ade7ebbc56",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "138b143c-0a19-4f7f-ba63-fd181381b37d"
+        }, {
+          "name" : "description",
+          "required" : false,
+          "uniqueId" : "62687b04-750c-4410-bf34-b568c4c37ae8",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "6ef01915-bd45-4c32-b827-3f06491eb561"
+        }, {
+          "name" : "visibility",
+          "required" : false,
+          "uniqueId" : "e15c4057-f0ca-468c-afb4-f7c8193a0716",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "90010ed2-014e-4a93-8029-0c8559ac37c9"
+        }, {
+          "name" : "category2",
+          "required" : false,
+          "uniqueId" : "0f9c3108-8f64-479f-9d99-a239f8e64e41",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "f4c07f5b-9281-466c-a4b9-1cf12a4859f7"
+        }, {
+          "name" : "budget",
+          "required" : false,
+          "uniqueId" : "e14bb9a8-4785-424d-a7e7-533452f9fb7d",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "975c65d6-684e-4be7-8df4-63c66cb6fab6"
+        }, {
+          "name" : "contractor_type",
+          "required" : false,
+          "uniqueId" : "b0178326-7037-4cb1-a4d3-f5fd40ce8865",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "211039bc-1b31-497a-9d05-63bbdaf36b00"
+        }, {
+          "name" : "skills",
+          "required" : false,
+          "uniqueId" : "589d9511-4ebe-4020-ae84-22ef0878181e",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "0c5d3eac-b12e-4b2f-a0a7-d4e099009159"
+        }, {
+          "name" : "specialty",
+          "required" : false,
+          "uniqueId" : "bdd2fcb8-33f9-4d33-a7ea-d7d8d20a5f82",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "6a404db2-0866-497f-a8da-e3673c1028c3"
+        }, {
+          "name" : "duration",
+          "required" : false,
+          "uniqueId" : "2cba17cc-670d-4bbe-ad67-8bbe30ffde08",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "aa411445-3534-44c7-bd1c-994d7204dbee"
+        }, {
+          "name" : "occupation",
+          "required" : false,
+          "uniqueId" : "3be45db4-fe0c-4e4e-89cf-2279e387118c",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "7c7c696e-c197-44b5-842d-1905811078ad"
+        } ]
+      } ],
+      "iconUrl" : "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/HTTP.b662c61cecf295906ef0af18be93b25a.svg"
+    },
+    "context" : { },
+    "tables" : [ {
+      "id" : 275,
+      "title" : "teams",
+      "displayName" : "Teams",
+      "entityName" : "teams",
+      "type" : "TABLE",
+      "loadingType" : "PULL",
+      "columns" : [ {
+        "id" : 2381,
+        "title" : "company_name",
+        "displayName" : "Company Name",
+        "attributeName" : "company_name",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Company Name",
+        "primaryKey" : false
+      }, {
+        "id" : 2382,
+        "title" : "company_reference",
+        "displayName" : "Company Reference",
+        "attributeName" : "company_reference",
+        "type" : "INTEGER",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Company Reference",
+        "primaryKey" : false
+      }, {
+        "id" : 2383,
+        "title" : "id",
+        "displayName" : "Id",
+        "attributeName" : "id",
+        "type" : "STRING",
+        "nullable" : false,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Id",
+        "primaryKey" : true
+      }, {
+        "id" : 2384,
+        "title" : "name",
+        "displayName" : "Name",
+        "attributeName" : "name",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Name",
+        "primaryKey" : false
+      }, {
+        "id" : 2385,
+        "title" : "parent_team_id",
+        "displayName" : "Parent Team Id",
+        "attributeName" : "parent_team_id",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Parent Team Id",
+        "primaryKey" : false
+      }, {
+        "id" : 2386,
+        "title" : "parent_team_name",
+        "displayName" : "Parent Team Name",
+        "attributeName" : "parent_team_name",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Parent Team Name",
+        "primaryKey" : false
+      }, {
+        "id" : 2387,
+        "title" : "parent_team_reference",
+        "displayName" : "Parent Team Reference",
+        "attributeName" : "parent_team_reference",
+        "type" : "INTEGER",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Parent Team Reference",
+        "primaryKey" : false
+      }, {
+        "id" : 2388,
+        "title" : "payment_verification_stat",
+        "displayName" : "Payment Verification Stat",
+        "attributeName" : "payment_verification_stat",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Payment Verification Stat",
+        "primaryKey" : false
+      }, {
+        "id" : 2389,
+        "title" : "reference",
+        "displayName" : "Reference",
+        "attributeName" : "reference",
+        "type" : "INTEGER",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Reference",
+        "primaryKey" : false
+      } ]
+    }, {
+      "id" : 287,
+      "title" : "subcategory_services",
+      "displayName" : "Subcategory Services",
+      "entityName" : "subcategory_services",
+      "type" : "TABLE",
+      "loadingType" : "PULL",
+      "columns" : [ {
+        "id" : 2426,
+        "title" : "preferred_label",
+        "displayName" : "Preferred Label",
+        "attributeName" : "preferred_label",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Preferred Label",
+        "primaryKey" : false
+      }, {
+        "id" : 2427,
+        "title" : "id",
+        "displayName" : "Id",
+        "attributeName" : "id",
+        "type" : "STRING",
+        "nullable" : false,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Id",
+        "primaryKey" : true
+      }, {
+        "id" : 2428,
+        "title" : "parent_id",
+        "displayName" : "Parent Id",
+        "attributeName" : "parent_id",
+        "type" : "STRING",
+        "nullable" : false,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Parent Id",
+        "primaryKey" : true
+      }, {
+        "id" : 2429,
+        "title" : "parent_parent_id",
+        "displayName" : "Parent Parent Id",
+        "attributeName" : "parent_parent_id",
+        "type" : "STRING",
+        "nullable" : false,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Parent Parent Id",
+        "primaryKey" : true
+      }, {
+        "id" : 2430,
+        "title" : "root_id",
+        "displayName" : "Root Id",
+        "attributeName" : "root_id",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Root Id",
+        "primaryKey" : false
+      } ]
+    }, {
+      "id" : 288,
+      "title" : "category",
+      "displayName" : "Category",
+      "entityName" : "category",
+      "type" : "TABLE",
+      "loadingType" : "PULL",
+      "columns" : [ {
+        "id" : 2431,
+        "title" : "preferred_label",
+        "displayName" : "Preferred Label",
+        "attributeName" : "preferred_label",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Preferred Label",
+        "primaryKey" : false
+      }, {
+        "id" : 2432,
+        "title" : "id",
+        "displayName" : "Id",
+        "attributeName" : "id",
+        "type" : "STRING",
+        "nullable" : false,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Id",
+        "primaryKey" : true
+      } ]
+    }, {
+      "id" : 289,
+      "title" : "category_services",
+      "displayName" : "Category Services",
+      "entityName" : "category_services",
+      "type" : "TABLE",
+      "loadingType" : "PULL",
+      "columns" : [ {
+        "id" : 2433,
+        "title" : "preferred_label",
+        "displayName" : "Preferred Label",
+        "attributeName" : "preferred_label",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Preferred Label",
+        "primaryKey" : false
+      }, {
+        "id" : 2434,
+        "title" : "id",
+        "displayName" : "Id",
+        "attributeName" : "id",
+        "type" : "STRING",
+        "nullable" : false,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Id",
+        "primaryKey" : true
+      }, {
+        "id" : 2435,
+        "title" : "parent_id",
+        "displayName" : "Parent Id",
+        "attributeName" : "parent_id",
+        "type" : "STRING",
+        "nullable" : false,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Parent Id",
+        "primaryKey" : true
+      }, {
+        "id" : 2436,
+        "title" : "root_id",
+        "displayName" : "Root Id",
+        "attributeName" : "root_id",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Root Id",
+        "primaryKey" : false
+      } ]
+    }, {
+      "id" : 290,
+      "title" : "subcategory",
+      "displayName" : "Subcategory",
+      "entityName" : "subcategory",
+      "type" : "TABLE",
+      "loadingType" : "PULL",
+      "columns" : [ {
+        "id" : 2437,
+        "title" : "preferred_label",
+        "displayName" : "Preferred Label",
+        "attributeName" : "preferred_label",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Preferred Label",
+        "primaryKey" : false
+      }, {
+        "id" : 2438,
+        "title" : "id",
+        "displayName" : "Id",
+        "attributeName" : "id",
+        "type" : "STRING",
+        "nullable" : false,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Id",
+        "primaryKey" : true
+      }, {
+        "id" : 2439,
+        "title" : "parent_id",
+        "displayName" : "Parent Id",
+        "attributeName" : "parent_id",
+        "type" : "STRING",
+        "nullable" : false,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Parent Id",
+        "primaryKey" : true
+      }, {
+        "id" : 2440,
+        "title" : "root_id",
+        "displayName" : "Root Id",
+        "attributeName" : "root_id",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Root Id",
+        "primaryKey" : false
+      } ]
+    }, {
+      "id" : 291,
+      "title" : "organization_teams",
+      "displayName" : "Organization Teams",
+      "entityName" : "organization_teams",
+      "type" : "TABLE",
+      "loadingType" : "PULL",
+      "columns" : [ {
+        "id" : 2441,
+        "title" : "hidden",
+        "displayName" : "Hidden",
+        "attributeName" : "hidden",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Hidden",
+        "primaryKey" : false
+      }, {
+        "id" : 2442,
+        "title" : "name",
+        "displayName" : "Name",
+        "attributeName" : "name",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Name",
+        "primaryKey" : false
+      }, {
+        "id" : 2443,
+        "title" : "active",
+        "displayName" : "Active",
+        "attributeName" : "active",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Active",
+        "primaryKey" : false
+      }, {
+        "id" : 2444,
+        "title" : "id",
+        "displayName" : "Id",
+        "attributeName" : "id",
+        "type" : "STRING",
+        "nullable" : false,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Id",
+        "primaryKey" : true
+      }, {
+        "id" : 2445,
+        "title" : "parent_id",
+        "displayName" : "Parent Id",
+        "attributeName" : "parent_id",
+        "type" : "STRING",
+        "nullable" : false,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Parent Id",
+        "primaryKey" : true
+      }, {
+        "id" : 2446,
+        "title" : "root_id",
+        "displayName" : "Root Id",
+        "attributeName" : "root_id",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Root Id",
+        "primaryKey" : false
+      } ]
+    }, {
+      "id" : 292,
+      "title" : "organization",
+      "displayName" : "Organization",
+      "entityName" : "organization",
+      "type" : "TABLE",
+      "loadingType" : "PULL",
+      "columns" : [ {
+        "id" : 2447,
+        "title" : "name",
+        "displayName" : "Name",
+        "attributeName" : "name",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Name",
+        "primaryKey" : false
+      }, {
+        "id" : 2448,
+        "title" : "id",
+        "displayName" : "Id",
+        "attributeName" : "id",
+        "type" : "STRING",
+        "nullable" : false,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Id",
+        "primaryKey" : true
+      } ]
+    } ],
+    "relationships" : [ {
+      "id" : 115,
+      "pkTable" : {
+        "id" : 288,
+        "title" : "category",
+        "type" : "TABLE"
+      },
+      "fkTable" : {
+        "id" : 289,
+        "title" : "category_services",
+        "type" : "TABLE"
+      },
+      "alias" : "t_6bc8cfa0_d40a_483f_8ea5",
+      "userDefined" : false,
+      "fkColumnPairs" : [ {
+        "fkId" : 115,
+        "pkColumn" : {
+          "id" : 2432,
+          "title" : "id",
+          "displayName" : "Id",
+          "attributeName" : "id",
+          "type" : "STRING",
+          "nullable" : false,
+          "autoIncrement" : false,
+          "roleType" : "DB_COLUMN",
+          "searchable" : true,
+          "readable" : true,
+          "writable" : false,
+          "defaultLabel" : "Id",
+          "primaryKey" : true
+        },
+        "fkColumn" : {
+          "id" : 2435,
+          "title" : "parent_id",
+          "displayName" : "Parent Id",
+          "attributeName" : "parent_id",
+          "type" : "STRING",
+          "nullable" : false,
+          "autoIncrement" : false,
+          "roleType" : "DB_COLUMN",
+          "searchable" : true,
+          "readable" : true,
+          "writable" : false,
+          "defaultLabel" : "Parent Id",
+          "primaryKey" : true
+        }
+      } ]
+    }, {
+      "id" : 116,
+      "pkTable" : {
+        "id" : 288,
+        "title" : "category",
+        "type" : "TABLE"
+      },
+      "fkTable" : {
+        "id" : 290,
+        "title" : "subcategory",
+        "type" : "TABLE"
+      },
+      "alias" : "t_5621862e_1f18_4f68_b8cb",
+      "userDefined" : false,
+      "fkColumnPairs" : [ {
+        "fkId" : 116,
+        "pkColumn" : {
+          "id" : 2432,
+          "title" : "id",
+          "displayName" : "Id",
+          "attributeName" : "id",
+          "type" : "STRING",
+          "nullable" : false,
+          "autoIncrement" : false,
+          "roleType" : "DB_COLUMN",
+          "searchable" : true,
+          "readable" : true,
+          "writable" : false,
+          "defaultLabel" : "Id",
+          "primaryKey" : true
+        },
+        "fkColumn" : {
+          "id" : 2439,
+          "title" : "parent_id",
+          "displayName" : "Parent Id",
+          "attributeName" : "parent_id",
+          "type" : "STRING",
+          "nullable" : false,
+          "autoIncrement" : false,
+          "roleType" : "DB_COLUMN",
+          "searchable" : true,
+          "readable" : true,
+          "writable" : false,
+          "defaultLabel" : "Parent Id",
+          "primaryKey" : true
+        }
+      } ]
+    }, {
+      "id" : 114,
+      "pkTable" : {
+        "id" : 290,
+        "title" : "subcategory",
+        "type" : "TABLE"
+      },
+      "fkTable" : {
+        "id" : 287,
+        "title" : "subcategory_services",
+        "type" : "TABLE"
+      },
+      "alias" : "t_6b6dc26e_65d5_447b_a191",
+      "userDefined" : false,
+      "fkColumnPairs" : [ {
+        "fkId" : 114,
+        "pkColumn" : {
+          "id" : 2438,
+          "title" : "id",
+          "displayName" : "Id",
+          "attributeName" : "id",
+          "type" : "STRING",
+          "nullable" : false,
+          "autoIncrement" : false,
+          "roleType" : "DB_COLUMN",
+          "searchable" : true,
+          "readable" : true,
+          "writable" : false,
+          "defaultLabel" : "Id",
+          "primaryKey" : true
+        },
+        "fkColumn" : {
+          "id" : 2428,
+          "title" : "parent_id",
+          "displayName" : "Parent Id",
+          "attributeName" : "parent_id",
+          "type" : "STRING",
+          "nullable" : false,
+          "autoIncrement" : false,
+          "roleType" : "DB_COLUMN",
+          "searchable" : true,
+          "readable" : true,
+          "writable" : false,
+          "defaultLabel" : "Parent Id",
+          "primaryKey" : true
+        }
+      }, {
+        "fkId" : 114,
+        "pkColumn" : {
+          "id" : 2439,
+          "title" : "parent_id",
+          "displayName" : "Parent Id",
+          "attributeName" : "parent_id",
+          "type" : "STRING",
+          "nullable" : false,
+          "autoIncrement" : false,
+          "roleType" : "DB_COLUMN",
+          "searchable" : true,
+          "readable" : true,
+          "writable" : false,
+          "defaultLabel" : "Parent Id",
+          "primaryKey" : true
+        },
+        "fkColumn" : {
+          "id" : 2429,
+          "title" : "parent_parent_id",
+          "displayName" : "Parent Parent Id",
+          "attributeName" : "parent_parent_id",
+          "type" : "STRING",
+          "nullable" : false,
+          "autoIncrement" : false,
+          "roleType" : "DB_COLUMN",
+          "searchable" : true,
+          "readable" : true,
+          "writable" : false,
+          "defaultLabel" : "Parent Parent Id",
+          "primaryKey" : true
+        }
+      } ]
+    }, {
+      "id" : 117,
+      "pkTable" : {
+        "id" : 292,
+        "title" : "organization",
+        "type" : "TABLE"
+      },
+      "fkTable" : {
+        "id" : 291,
+        "title" : "organization_teams",
+        "type" : "TABLE"
+      },
+      "alias" : "b032beb2_52ab_45aa_919b_e",
+      "userDefined" : false,
+      "fkColumnPairs" : [ {
+        "fkId" : 117,
+        "pkColumn" : {
+          "id" : 2448,
+          "title" : "id",
+          "displayName" : "Id",
+          "attributeName" : "id",
+          "type" : "STRING",
+          "nullable" : false,
+          "autoIncrement" : false,
+          "roleType" : "DB_COLUMN",
+          "searchable" : true,
+          "readable" : true,
+          "writable" : false,
+          "defaultLabel" : "Id",
+          "primaryKey" : true
+        },
+        "fkColumn" : {
+          "id" : 2445,
+          "title" : "parent_id",
+          "displayName" : "Parent Id",
+          "attributeName" : "parent_id",
+          "type" : "STRING",
+          "nullable" : false,
+          "autoIncrement" : false,
+          "roleType" : "DB_COLUMN",
+          "searchable" : true,
+          "readable" : true,
+          "writable" : false,
+          "defaultLabel" : "Parent Id",
+          "primaryKey" : true
+        }
+      } ]
+    } ],
+    "fullyConfigured" : true
+  } ],
+  "notifications" : [ ],
+  "resolvers" : [ ],
+  "modelConfiguration" : {
+    "appIds" : [ "939fd42c-060e-4ed0-a61d-3d36ee411d25" ],
+    "resolverIds" : [ ],
+    "bundleDescription" : "Post new job",
+    "bundleVendor" : "UpWork"
+  },
+  "translationChecksum" : "1B244DE5CF4C9AEB7868B51A75D67696",
+  "appliedSappUpgrades" : [ "microapp-5025", "microapp-6853", "microapp-8576", "microapp-5227", "microapp-1980", "microapp-7961", "microapp-7888", "microapp-8950", "microapp-7290", "microapp-8921", "microapp-3547", "microapp-3580", "microapp-2450", "microapp-4666", "microapp-6293", "microapp-3838", "microapp-7561", "microapp-6617", "microapp-3548", "microapp-7984", "microapp-8003", "microapp-8892", "microapp-6593", "microapp-6264", "microapp-4020", "microapp-6790", "microapp-6262", "microapp-4518", "microapp-8511" ],
+  "buildVersion" : "1.16.5.0e5617ca6c560d3753d212336ec34946898a64a3"
+}
