@@ -1,0 +1,41 @@
+{
+    "vaResolvers": [],
+    "title": "Post New Job",
+    "iconUrl": "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/HTTP.b662c61cecf295906ef0af18be93b25a.svg",
+    "masVersion": "1.16.5.0e5617ca6c560d3753d212336ec34946898a64a3",
+    "supportsOAuthForActions": true,
+    "id": "14e435ad-f9df-425f-a673-8722bbd22c80",
+    "type": "HTTP",
+    "metadata": [
+        {
+            "value": "http://not-a-url.com",
+            "tag": "privacyUrl"
+        },
+        {
+            "value": "http://not-a-url.com",
+            "tag": "documentationUrl"
+        },
+        {
+            "value": "http://not-a-url.com",
+            "tag": "termsOfUseUrl"
+        },
+        {
+            "value": "http://not-a-url.com",
+            "tag": "supportUrl"
+        }
+    ],
+    "apps": [
+        {
+            "title": "Add New Job Post",
+            "numberOfEvents": 0,
+            "action": true,
+            "uuid": "939fd42c-060e-4ed0-a61d-3d36ee411d25"
+        }
+    ],
+    "description": "Post new job",
+    "created": "2020-06-19T14:59:27",
+    "vendor": "Tom",
+    "i18nLanguages": [
+        "en"
+    ]
+}
