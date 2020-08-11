@@ -1,0 +1,47 @@
+{
+    "description": "",
+    "vaResolvers": [],
+    "title": "Webhook Self Store Demo",
+    "metadata": [
+        {
+            "value": "https://www.no-privacy.com",
+            "tag": "privacyUrl"
+        },
+        {
+            "value": "https://www.no-docs.com",
+            "tag": "documentationUrl"
+        },
+        {
+            "value": "https://www.no-terms.com",
+            "tag": "termsOfUseUrl"
+        },
+        {
+            "value": "https://www.no-support.com",
+            "tag": "supportUrl"
+        }
+    ],
+    "supportsOAuthForActions": false,
+    "type": "HTTP",
+    "iconUrl": "https://ctx-ws-cdn.cloud.com/assets/microapps/exported/HTTP.b662c61cecf295906ef0af18be93b25a.svg",
+    "id": "020a0317-da25-4829-ae83-efd5b764aa12",
+    "created": "2020-06-16T19:22:13",
+    "i18nLanguages": [
+        "en"
+    ],
+    "apps": [
+        {
+            "action": true,
+            "numberOfEvents": 0,
+            "title": "Manage Users",
+            "uuid": "0f05a575-b92f-4bdd-8016-57248037f12e"
+        },
+        {
+            "action": false,
+            "numberOfEvents": 1,
+            "title": "Status Up",
+            "uuid": "d2e43d6b-614d-44ca-8551-cdcc6b5657f0"
+        }
+    ],
+    "vendor": "myVendor1223456",
+    "masVersion": "1.16.5.0e5617ca6c560d3753d212336ec34946898a64a3"
+}
